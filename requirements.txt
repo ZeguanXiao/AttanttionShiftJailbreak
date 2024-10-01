@@ -1,0 +1,14 @@
+openai
+transformers
+wandb
+pytz
+pandas
+fschat
+accelerate
+rootutils
+sentencepiece
+matplotlib
+datasets
+evaluate
+scikit-learn
+bitsandbytes==0.41.1
